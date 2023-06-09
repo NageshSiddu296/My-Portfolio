@@ -5,7 +5,11 @@ export default function Project() {
       <div className="projects-card">
         <div>
           <a href="https://sidtenziesgame.netlify.app/">
-            <img className="images" src="./images/Tenzies.PNG" alt="" />
+            <img
+              className="images"
+              src="https://www.linkpicture.com/q/Tenzies.png"
+              alt="./images/Tenzies.PNG"
+            />
           </a>
         </div>
         <div className="description">
@@ -25,7 +29,11 @@ export default function Project() {
       <div className="projects-card">
         <div>
           <a href="https://sidweather-app.netlify.app/">
-            <img className="images" src="./images/weather.PNG" alt="" />
+            <img
+              className="images"
+              src="https://www.linkpicture.com/q/weather_7.png"
+              alt="./images/weather.PNG"
+            />
           </a>
         </div>
         <div className="description">
@@ -45,7 +53,11 @@ export default function Project() {
       <div className="projects-card">
         <div>
           <a href="https://sid-todo-list.netlify.app/">
-            <img className="images" src="./images/ToDo.PNG" alt="" />
+            <img
+              className="images"
+              src="https://www.linkpicture.com/q/ToDo.png"
+              alt="./images/ToDo.PNG"
+            />
           </a>
         </div>
         <div className="description">
@@ -65,7 +77,11 @@ export default function Project() {
       <div className="projects-card">
         <div>
           <a href="https://sid-number-generator.netlify.app/">
-            <img className="images" src="./images/RandomNumber.PNG" alt="" />
+            <img
+              className="images"
+              src="https://www.linkpicture.com/q/RandomNumber.png"
+              alt="./images/RandomNumber.PNG"
+            />
           </a>
         </div>
         <div className="description">
@@ -112,7 +128,11 @@ export default function Project() {
       <div className="projects-card">
         <div>
           <a href="https://boatproducts.netlify.app/">
-            <img className="images" src="./images/Boat.PNG" alt="" />
+            <img
+              className="images"
+              src="https://www.linkpicture.com/q/Boat.png"
+              alt="./images/Boat.PNG"
+            />
           </a>
         </div>
         <div className="description">
@@ -132,7 +152,11 @@ export default function Project() {
       <div className="projects-card">
         <div>
           <a href="https://sidcolorbox.netlify.app/">
-            <img className="images" src="./images/Colorbox.PNG" alt="" />
+            <img
+              className="images"
+              src="https://www.linkpicture.com/q/Colorbox.png"
+              alt="./images/ColorBox.PNG"
+            />
           </a>
         </div>
         <div className="description">
@@ -152,7 +176,11 @@ export default function Project() {
       <div className="projects-card">
         <div>
           <a href="">
-            <img className="images" src="./images/Counter.PNG" alt="" />
+            <img
+              className="images"
+              src="https://www.linkpicture.com/q/Counter.png"
+              alt="./images/Counter.PNG"
+            />
           </a>
         </div>
         <div className="description">
@@ -172,7 +200,11 @@ export default function Project() {
       <div className="projects-card">
         <div>
           <a href="">
-            <img className="images" src="./images/Light-Dark.PNG" alt="" />
+            <img
+              className="images"
+              src="https://www.linkpicture.com/q/Light-Dark.png"
+              alt="./images/Light-Dark.PNG"
+            />
           </a>
         </div>
         <div className="description">
