@@ -87,8 +87,7 @@ export default function Project() {
         <div className="description">
           <h2 className="item-num">#4</h2>
           <h1 className="title">
-            Random Number <br />
-            Generator
+            Random Number Generator
           </h1>
           <h className="tech">ReactJs, HTML, CSS</h>
           <br />
