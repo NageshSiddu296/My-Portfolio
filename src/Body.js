@@ -25,16 +25,7 @@ export default function Body() {
         <div>
           <h1 className="about">About Me</h1>
           <p className="paragraph">
-            As a civil engineer with a passion for technology, I completed a
-            frontend development course from NxtWave to expand my skillset and
-            explore new opportunities. While my background is in civil
-            engineering, I am excited to apply my knowledge of design
-            principles, problemsolving skills, and attention to detail to web
-            development. I am eager to apply my skills and knowledge in a
-            professional setting and contribute to innovative projects. I am a
-            quick learner, adaptable, and enjoy working in a collaborative
-            environment. I am seeking a challenging role as a front-end
-            developer where I can learn, grow, and make a meaningful impact.
+          With a deep passion for technology, I completed a front-enddevelopment course at NxtWave to broaden my skillset and explorenew opportunities. I am enthusiastic about applying my understandingof design principles, strong problem-solving abilities, and meticulousattention to detail to web development. My goal is to utilize my skillsand knowledge in a professional setting while contributing toinnovative projects. I thrive as a quick learner, adaptable individual, andgreatly enjoy working collaboratively. Currently, I am actively seeking achallenging role as a front-end developer, where I can continuelearning, growing, and making a meaningful impact.
           </p>
         </div>
         <br />
